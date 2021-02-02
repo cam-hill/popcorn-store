@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    padding: 25px;
+    width: 80vw;
+}
+h3 {
+    color: rgb(236, 120, 65);
+}
+
+div {
+    line-height: 1.4em;
+}
+footer {
+    background: lightgrey;
+    width: 100vw;
+    display: flex; 
+    justify-content: center;
+}
+
+footer p {
+    padding: 25px;
+}
