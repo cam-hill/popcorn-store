@@ -1,6 +1,18 @@
 * {
     margin: 0;
 }
+
+header {
+    background: lightgrey;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+header p {
+    padding: 25px;
+}
+
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -9,6 +21,13 @@ main {
     padding: 25px;
     width: 80vw;
 }
+
+h1 {
+    font-size: 4em;
+    color: navy;
+    padding-bottom: 50px;
+}
+
 h3 {
     color: rgb(236, 120, 65);
 }
@@ -19,7 +38,7 @@ div {
 footer {
     background: lightgrey;
     width: 100vw;
-    display: flex; 
+    display: flex;
     justify-content: center;
 }
 
