@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.4em;
+}
+h1 {
+    color: rgb(236, 120, 65);
+}
+table {
+    width: 90vw;
+    border-collapse: collapse;
+    border: 1px black solid;
+}
+
+table th,
+table tr, 
+table td {
+    border: 1px black solid;
+    padding: 10px;
+}
+
+table th {
+    background-color: #b9b9b9;
+}
+table td {
+    width: 50%;
+    vertical-align: top;
+}
