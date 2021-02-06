@@ -2,6 +2,18 @@ body {
     font-family: sans-serif;
     line-height: 1.4em;
 }
+
+header {
+    background: lightgrey;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+header p {
+    padding: 25px;
+}
+
 h1 {
     color: rgb(236, 120, 65);
     text-align: center;
@@ -39,4 +51,15 @@ table th {
 table td {
     width: 50%;
     vertical-align: top;
+}
+
+footer {
+    background: lightgrey;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    padding: 25px;
 }
